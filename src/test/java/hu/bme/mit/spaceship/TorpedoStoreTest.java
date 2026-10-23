@@ -86,4 +86,18 @@ class TorpedoStoreTest {
         assertEquals(0, store.getTorpedoCount());
         assertTrue(store.isEmpty());
     }
+
+    @Test
+    void fireLaserInSingleModeReturnsFalseBecauseItIsNotImplemented() {
+        GT4500 ship = new GT4500();
+
+        assertFalse(ship.fireLaser(FiringMode.SINGLE));
+    }
+
+    @Test
+    void fireLaserInAllModeReturnsFalseBecauseItIsNotImplemented() {
+        GT4500 ship = new GT4500();
+
+        assertFalse(ship.fireLaser(FiringMode.ALL));
+    }
 }
