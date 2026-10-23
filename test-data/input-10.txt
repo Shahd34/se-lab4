@@ -1,0 +1,3 @@
+# ALL must return SUCCESS when primary firing fails but secondary firing succeeds
+GT4500,1,1,1,0
+TORPEDO,ALL

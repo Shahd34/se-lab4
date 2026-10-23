@@ -1,0 +1,5 @@
+# A failed secondary SINGLE firing must not consume the available primary torpedo
+GT4500,2,0,1,1
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
