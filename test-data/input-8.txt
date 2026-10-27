@@ -1,0 +1,4 @@
+# Firing with both stores empty fails
+GT4500,0,0,0,0
+TORPEDO,SINGLE
+TORPEDO,ALL

@@ -1,0 +1,5 @@
+# Failure in the selected primary store must not trigger a secondary attempt
+# Second command then succeeds from secondary, proving it was not fired on first command
+GT4500,1,1,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

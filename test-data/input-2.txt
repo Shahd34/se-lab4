@@ -1,0 +1,4 @@
+# SINGLE alternates stores after the first successful attempt
+GT4500,2,0,2,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

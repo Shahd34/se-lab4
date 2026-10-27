@@ -1,0 +1,4 @@
+# ALL tries both stores; the follow-up fails because both torpedoes were consumed
+GT4500,1,0,1,0
+TORPEDO,ALL
+TORPEDO,SINGLE

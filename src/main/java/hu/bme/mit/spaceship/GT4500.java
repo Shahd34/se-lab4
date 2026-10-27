@@ -16,7 +16,7 @@ public class GT4500 implements SpaceShip {
     }
 
     public GT4500(int primaryCount, double primaryFailRate, int secondaryCount,
-            double secondaryFailRate) {
+                  double secondaryFailRate) {
         this.primaryTorpedoStore = new TorpedoStore(primaryCount, primaryFailRate);
         this.secondaryTorpedoStore = new TorpedoStore(secondaryCount, secondaryFailRate);
     }

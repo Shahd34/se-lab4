@@ -1,0 +1,3 @@
+# ALL should still try the secondary store when the primary store is empty
+GT4500,0,0,1,0
+TORPEDO,ALL
